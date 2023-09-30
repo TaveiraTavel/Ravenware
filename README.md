@@ -63,12 +63,12 @@ _Ravenware é um produto OpenSource pensado e elaborado pela Ravensec, que tem c
 
 1. Execute SetupRavenware.msi<br>
 2. Reinicie o Windows (será em modo de recuperação):<br>
-   2.1. Opções Avançadas<br>
-   2.2. Solução de Problemas<br>
-   2.3. Opções Avançadas<br>
-   2.4. Configurações de Inicialização<br>
-   2.5. Reiniciar<br>
-   2.6. F7 ou 7<br>
+2.1. Opções Avançadas<br>
+2.2. Solução de Problemas<br>
+2.3. Opções Avançadas<br>
+2.4. Configurações de Inicialização<br>
+2.5. Reiniciar<br>
+2.6. F7 ou 7<br>
 3. Inicie o Ravenware.exe que está na Área de Trabalho ou em C:\Arquivos de Programas\RavenSec\<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

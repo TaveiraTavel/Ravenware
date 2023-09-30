@@ -113,8 +113,6 @@ _lisprrf@gmail.com_
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [github-shield]:Images\Github-Dark.svg
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: Images\LinkedIn.svg
 [visualstudio-shield]: Images\VisualStudio-Dark.svg
 [license.md]: LICENSE.md

@@ -109,7 +109,4 @@ _lisprrf@gmail.com_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[github-shield]: Images\Github-Dark.svg
-[linkedin-shield]: Images\LinkedIn.svg
-[visualstudio-shield]: Images\VisualStudio-Dark.svg
 [license.md]: LICENSE.md

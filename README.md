@@ -2,7 +2,7 @@
 
 <p align="center"
 
-[![visualstudio-shield]](#)&nbsp;&nbsp;&nbsp;&nbsp;[![github-shield]](#📄licença)&nbsp;&nbsp;&nbsp;&nbsp;[![linkedin-shield]](#🔗linkedin)
+[![visualstudio-shield]](#) &nbsp;&nbsp;&nbsp;&nbsp; [![github-shield]](#github) &nbsp;&nbsp;&nbsp;&nbsp; [![linkedin-shield]](#linkedin)
 
 >
 

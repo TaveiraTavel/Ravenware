@@ -107,6 +107,5 @@ _lisprrf@gmail.com_
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- MARKDOWN -->
 [license.md]: LICENSE.md
